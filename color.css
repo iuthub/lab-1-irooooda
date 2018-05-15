@@ -1,0 +1,33 @@
+body{
+	background-color: lightgreen;
+	font-family: calibri;
+	
+}
+
+h1{
+	color: white;
+}
+
+h2{
+	color: #336699;
+}
+
+p{
+	color: #FFFFFF;
+}
+
+#color{
+	color: #FFC854;
+}
+
+#color1{
+	color: #FFFF00;
+}
+
+li{
+	color: #FFFFFF;
+}
+
+a{
+	color: #0059b3;
+}
